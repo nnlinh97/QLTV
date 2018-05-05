@@ -35,15 +35,15 @@
             this.quảnLýToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.roleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nhânVIênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.quảnLýBạnĐọcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loạiSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nhàXuấtBảnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mượnSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trảSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.quảnLýBạnĐọcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -76,14 +76,14 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(175, 26);
             this.exitToolStripMenuItem.Text = "Đổi Mật Khẩu";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click_1);
             // 
             // logoutToolStripMenuItem
             // 
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(175, 26);
             this.logoutToolStripMenuItem.Text = "Logout";
             this.logoutToolStripMenuItem.Click += new System.EventHandler(this.logoutToolStripMenuItem_Click);
             // 
@@ -108,6 +108,12 @@
             this.nhânVIênToolStripMenuItem.Size = new System.Drawing.Size(226, 26);
             this.nhânVIênToolStripMenuItem.Text = "Danh Sách Nhân VIên";
             // 
+            // quảnLýBạnĐọcToolStripMenuItem
+            // 
+            this.quảnLýBạnĐọcToolStripMenuItem.Name = "quảnLýBạnĐọcToolStripMenuItem";
+            this.quảnLýBạnĐọcToolStripMenuItem.Size = new System.Drawing.Size(133, 24);
+            this.quảnLýBạnĐọcToolStripMenuItem.Text = "Quản Lý Bạn Đọc";
+            // 
             // quảnLýSáchToolStripMenuItem
             // 
             this.quảnLýSáchToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -121,20 +127,23 @@
             // loạiSáchToolStripMenuItem
             // 
             this.loạiSáchToolStripMenuItem.Name = "loạiSáchToolStripMenuItem";
-            this.loạiSáchToolStripMenuItem.Size = new System.Drawing.Size(174, 26);
+            this.loạiSáchToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.loạiSáchToolStripMenuItem.Text = "Loại Sách";
+            this.loạiSáchToolStripMenuItem.Click += new System.EventHandler(this.loạiSáchToolStripMenuItem_Click);
             // 
             // sáchToolStripMenuItem
             // 
             this.sáchToolStripMenuItem.Name = "sáchToolStripMenuItem";
-            this.sáchToolStripMenuItem.Size = new System.Drawing.Size(174, 26);
+            this.sáchToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.sáchToolStripMenuItem.Text = "Sách";
+            this.sáchToolStripMenuItem.Click += new System.EventHandler(this.sáchToolStripMenuItem_Click);
             // 
             // nhàXuấtBảnToolStripMenuItem
             // 
             this.nhàXuấtBảnToolStripMenuItem.Name = "nhàXuấtBảnToolStripMenuItem";
-            this.nhàXuấtBảnToolStripMenuItem.Size = new System.Drawing.Size(174, 26);
+            this.nhàXuấtBảnToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.nhàXuấtBảnToolStripMenuItem.Text = "Nhà Xuất Bản";
+            this.nhàXuấtBảnToolStripMenuItem.Click += new System.EventHandler(this.nhàXuấtBảnToolStripMenuItem_Click);
             // 
             // mượnSáchToolStripMenuItem
             // 
@@ -148,15 +157,6 @@
             this.trảSáchToolStripMenuItem.Size = new System.Drawing.Size(76, 24);
             this.trảSáchToolStripMenuItem.Text = "Trả Sách";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::QuanLyThuVien.Properties.Resources.DSCN0122;
-            this.pictureBox1.Location = new System.Drawing.Point(100, 147);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(725, 425);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -168,11 +168,14 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Quản Lý Thư Viện";
             // 
-            // quảnLýBạnĐọcToolStripMenuItem
+            // pictureBox1
             // 
-            this.quảnLýBạnĐọcToolStripMenuItem.Name = "quảnLýBạnĐọcToolStripMenuItem";
-            this.quảnLýBạnĐọcToolStripMenuItem.Size = new System.Drawing.Size(133, 24);
-            this.quảnLýBạnĐọcToolStripMenuItem.Text = "Quản Lý Bạn Đọc";
+            this.pictureBox1.Image = global::QuanLyThuVien.Properties.Resources.DSCN0122;
+            this.pictureBox1.Location = new System.Drawing.Point(100, 147);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(725, 425);
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
             // formDashboard
             // 

@@ -57,6 +57,24 @@
     <Compile Include="formDashboard.Designer.cs">
       <DependentUpon>formDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="formLoaiSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLoaiSach.Designer.cs">
+      <DependentUpon>formLoaiSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formNXB.Designer.cs">
+      <DependentUpon>formNXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSach.Designer.cs">
+      <DependentUpon>formSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmChangePassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +88,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="formDashboard.resx">
       <DependentUpon>formDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLoaiSach.resx">
+      <DependentUpon>formLoaiSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formNXB.resx">
+      <DependentUpon>formNXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSach.resx">
+      <DependentUpon>formSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmChangePassword.resx">
       <DependentUpon>frmChangePassword.cs</DependentUpon>
@@ -105,6 +132,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\DSCN0122.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switch-turn-off-icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
