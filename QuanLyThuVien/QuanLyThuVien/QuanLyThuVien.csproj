@@ -81,6 +81,12 @@
     <Compile Include="formNXB.Designer.cs">
       <DependentUpon>formNXB.cs</DependentUpon>
     </Compile>
+    <Compile Include="formPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPhieuMuon.Designer.cs">
+      <DependentUpon>formPhieuMuon.cs</DependentUpon>
+    </Compile>
     <Compile Include="formSach.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +124,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="formNXB.resx">
       <DependentUpon>formNXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPhieuMuon.resx">
+      <DependentUpon>formPhieuMuon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formSach.resx">
       <DependentUpon>formSach.cs</DependentUpon>

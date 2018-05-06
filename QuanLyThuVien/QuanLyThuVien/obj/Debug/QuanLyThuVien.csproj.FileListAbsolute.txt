@@ -46,3 +46,4 @@ E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuV
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formBanDoc.resources
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.RoleNV.resources
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formRoleNV.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formPhieuMuon.resources

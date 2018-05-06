@@ -64,5 +64,11 @@ namespace QuanLyThuVien
             formBanDoc f = new formBanDoc();
             f.ShowDialog();
         }
+
+        private void mượnSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formPhieuMuon f = new formPhieuMuon();
+            f.ShowDialog();
+        }
     }
 }

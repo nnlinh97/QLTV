@@ -154,6 +154,7 @@
             this.mượnSáchToolStripMenuItem.Name = "mượnSáchToolStripMenuItem";
             this.mượnSáchToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.mượnSáchToolStripMenuItem.Text = "Mượn Sách";
+            this.mượnSáchToolStripMenuItem.Click += new System.EventHandler(this.mượnSáchToolStripMenuItem_Click);
             // 
             // trảSáchToolStripMenuItem
             // 
@@ -177,7 +178,7 @@
             // 
             this.pictureBox1.Image = global::QuanLyThuVien.Properties.Resources.DSCN0122;
             this.pictureBox1.Location = new System.Drawing.Point(75, 119);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(544, 345);
             this.pictureBox1.TabIndex = 1;
@@ -192,7 +193,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "formDashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản Lý Thư Viện";
