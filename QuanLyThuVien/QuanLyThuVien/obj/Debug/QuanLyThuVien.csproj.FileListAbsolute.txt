@@ -10,3 +10,14 @@ F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\D
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLogin.resources
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formDashboard.resources
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmChangePassword.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLogin.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formDashboard.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmChangePassword.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
