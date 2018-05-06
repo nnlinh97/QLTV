@@ -28,5 +28,23 @@ namespace QuanLyThuVien
             frmChangePassword f = new frmChangePassword();
             f.Show();
         }
+
+        private void sáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formSach f = new formSach();
+            f.ShowDialog();
+        }
+
+        private void nhàXuấtBảnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formNXB f = new formNXB();
+            f.ShowDialog();
+        }
+
+        private void loạiSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formLoaiSach f = new formLoaiSach();
+            f.ShowDialog();
+        }
     }
 }

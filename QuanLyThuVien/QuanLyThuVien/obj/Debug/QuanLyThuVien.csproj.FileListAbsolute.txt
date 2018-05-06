@@ -10,6 +10,7 @@ F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\D
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLogin.resources
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formDashboard.resources
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmChangePassword.resources
+<<<<<<< HEAD
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
@@ -21,3 +22,20 @@ E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuV
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmChangePassword.resources
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
 E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+=======
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLogin.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formDashboard.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formSach.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmChangePassword.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formNXB.resources
+F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLoaiSach.resources
+>>>>>>> 8697bf3f1294f0d9ea4cc780260eafd8150e753d
