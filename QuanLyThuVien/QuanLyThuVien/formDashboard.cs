@@ -46,5 +46,23 @@ namespace QuanLyThuVien
             formLoaiSach f = new formLoaiSach();
             f.ShowDialog();
         }
+
+        private void roleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formRoleNV f = new formRoleNV();
+            f.ShowDialog();
+        }
+
+        private void nhânVIênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formNhanVien f = new formNhanVien();
+            f.ShowDialog();
+        }
+
+        private void quảnLýBạnĐọcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formBanDoc f = new formBanDoc();
+            f.ShowDialog();
+        }
     }
 }

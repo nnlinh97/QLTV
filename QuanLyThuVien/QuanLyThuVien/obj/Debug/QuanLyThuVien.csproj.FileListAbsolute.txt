@@ -39,3 +39,10 @@ F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debu
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formNXB.resources
 F:\Study\Kì 6\PT - Thiết Kế\Nhóm\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLoaiSach.resources
 >>>>>>> 8697bf3f1294f0d9ea4cc780260eafd8150e753d
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formLoaiSach.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formNhanVien.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formNXB.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formSach.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formBanDoc.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.RoleNV.resources
+E:\HOCKY6\PTTK-PM\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formRoleNV.resources
